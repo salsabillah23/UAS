@@ -7,7 +7,7 @@
         <!-- Modal header -->
         <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
             <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
-                Tambah Data Mahasiswa
+                Tambah Data Mahasiswa 
             </h3>
             
         </div>
